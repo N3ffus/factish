@@ -8,3 +8,4 @@ frontend/dist/
 .env
 .deploy/
 .playwright-mcp/
+AGENTS.md
